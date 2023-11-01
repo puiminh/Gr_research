@@ -20,14 +20,14 @@ function initMap() {
 	// scaledSize width, height
 	const markers = [
 		[
-			"Woof! Woof!",
+			"Ban tap hoa voi muc gia phai chang",
 			21.003000, 105.842900,
 			'./market.png',
 			55,
 			55,
 		],
 		[
-			'Do not eat me!',
+			'Tap hoa tien loi',
             21.003099, 105.841999,
 			'./store.png',
 			55,
@@ -35,7 +35,7 @@ function initMap() {
 
 		],
         [
-			'Do not eat me!',
+			'...!',
             21.006099, 105.841999,
 			'./cstore.png',
 			55,
@@ -43,7 +43,7 @@ function initMap() {
 
 		],
         [
-			'Do not eat me!',
+			'Tap hoa tien loi',
             21.008099, 105.850999,
 			'./store.png',
 			55,
@@ -51,7 +51,7 @@ function initMap() {
 
 		],
         [
-			'Do not eat me!',
+			'Tap hoa tien loi',
             21.001099, 105.831999,
 			'./cstore.png',
 			55,
@@ -59,7 +59,7 @@ function initMap() {
 
 		],
         [
-			'Do not eat me!',
+			'Tap hoa tien loi',
             21.004099, 105.941999,
 			'./market.png',
 			55,
